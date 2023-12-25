@@ -1,9 +1,9 @@
 # poke-api
-Vite
-Composition API
-Pokemon API
-RouterLink
-LocalStorage
+#Vite 
+#Composition API
+#Pokemon API
+#RouterLink
+#LocalStorage
 
 
 
@@ -12,7 +12,7 @@ LocalStorage
 
 ## Deploy
 
-https://ppokke-api.netlify.app/
+[[https://ppokke-api.netlify.app/](https://ppokke-api.netlify.app/)](https://ppokke-api.netlify.app/)
 
 
 ## Customize configuration
