@@ -1,5 +1,5 @@
 # poke-api
-#Vite 
+#CLI 
 #Composition API
 #Pokemon API
 #RouterLink
